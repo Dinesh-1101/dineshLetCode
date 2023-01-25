@@ -40,8 +40,8 @@ public class hierarchy {
 		object[0][0]="Demosalesmanager";
 		object[0][1]="crmsfa";
 		object[1][0]="dinseh";
-		object[1][1]="pooja";
-		object[2][0]="riya";
+		object[1][1]="koushil";
+		object[2][0]="rahul";
 		object[2][1]="savit";
 		return object;
 
